@@ -1,0 +1,4 @@
+MONGO_URI=mongodb+srv://emabuglisi:Porcodio99@cluster0.vyllmnf.mongodb.net/?retryWrites=true&w=majority
+
+PORT=4000
+JWT_SECRET_KEY=your_jwt-secret-key
